@@ -1,0 +1,11 @@
+
+[core]
+    excludesfile = /home/boppreh/.gitignore
+
+.env
+node_modules
+
+server-compiled.js
+
+server-compiled.js.LICENSE.txt
+
